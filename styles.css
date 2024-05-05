@@ -1,0 +1,25 @@
+#cat-box{
+    height: 200px;
+    width: 500px;
+    background-color: #7469B6;
+    float: left;
+    display: inline-block;
+}
+#cat-box > img{
+    float: left;
+}
+#dog-box{
+    height: 200px;
+    width: 500px;
+    background-color: #AD88C6;
+    float: right;
+    display: inline-block;
+}
+#dog-box > img{
+    float: left;
+}
+footer{
+    clear: both;
+    text-align: center;
+    background-color: #FFE6E6;
+}
